@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="219.9"
+   height="39.209"
+   viewBox="0 0 219.9 39.209"
+   version="1.1"
+   id="svg3789"
+   sodipodi:docname="logo1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata3793">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3791"
+     showgrid="false"
+     inkscape:zoom="2.006594"
+     inkscape:cx="383.12441"
+     inkscape:cy="8.9869959"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3789" />
+  <defs
+     id="defs3779">
+    <linearGradient
+       id="linear-gradient"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#3b0b6c"
+         id="stop3754" />
+      <stop
+         offset="0.999"
+         stop-color="#6a1fe2"
+         id="stop3756" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#3b0ba7"
+         id="stop3759" />
+      <stop
+         offset="0.999"
+         stop-color="#6a1fe2"
+         id="stop3761" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-3"
+       x1="-12.658"
+       y1="-10.484"
+       x2="-11.167"
+       y2="-10.484"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#e78500"
+         id="stop3764" />
+      <stop
+         offset="0.999"
+         stop-color="#ffd300"
+         id="stop3766" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-4"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#3b0ba7"
+         id="stop3769" />
+      <stop
+         offset="0.999"
+         stop-color="#6a6fe2"
+         id="stop3771" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-5"
+       y1="0.5"
+       x2="1"
+       y2="0.5"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#ffb600"
+         id="stop3774" />
+      <stop
+         offset="0.999"
+         stop-color="#ffd300"
+         id="stop3776" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Group_480"
+     data-name="Group 480"
+     transform="translate(-1081.95 -1272.086)">
+    <g
+       id="Group_459"
+       data-name="Group 459"
+       transform="translate(18)">
+      <path
+         id="Path_21895"
+         data-name="Path 21895"
+         d="M1102.161,1270.062s2.517,5.838,5.28,12.194c-.723,1.7-1.482,3.437-2.257,5.136-3.536-6.65-7.736-11.441-12.312-4.307C1092.872,1283.084,1095.271,1267.676,1102.161,1270.062Z"
+         transform="translate(-12.671 5.227)"
+         fill="url(#linear-gradient)" />
+      <path
+         id="Path_21896"
+         data-name="Path 21896"
+         d="M1144.317,1340.375c-.789-.417-3.191-3.381-4.078-4.689.831-1.048,1.9-2.329,2.681-3.485.225.493,1.708,3.243,1.847,3.538a8.721,8.721,0,0,0,1.4,2.2A1.556,1.556,0,0,1,1144.317,1340.375Z"
+         transform="translate(-40.796 -31.819)"
+         fill="url(#linear-gradient-2)" />
+      <path
+         id="Path_21897"
+         data-name="Path 21897"
+         d="M1080.468,1288a5.315,5.315,0,0,1-3.052,2.629c3.593,8.121,9.986,22.942,9.986,22.942,6.888,2.384,9.289-13.023,9.289-13.023C1090.28,1310.538,1084.608,1297.138,1080.468,1288Z"
+         transform="translate(-3.493 -5.573)"
+         fill="url(#linear-gradient-3)" />
+      <path
+         id="Path_21898"
+         data-name="Path 21898"
+         d="M1080.286,1270.114s-2.7-7.3-8.432,3.374a226.232,226.232,0,0,0-10.067,22.965,4.207,4.207,0,0,1-6.617,1.725h0a6.378,6.378,0,0,1-1.793-7.407c2.618-6.146,7.847-17.21,13.925-23.5C1074.329,1259.995,1077.112,1261.26,1080.286,1270.114Z"
+         transform="translate(11.084 9.541)"
+         fill="url(#linear-gradient-4)" />
+      <path
+         id="Path_21899"
+         data-name="Path 21899"
+         d="M1097.5,1297.991s2.7,7.3,8.432-3.374A226.249,226.249,0,0,0,1116,1271.653a4.208,4.208,0,0,1,6.617-1.725h0a6.379,6.379,0,0,1,1.793,7.407c-2.618,6.146-7.848,17.21-13.925,23.5C1103.458,1308.111,1100.675,1306.846,1097.5,1297.991Z"
+         transform="translate(-15.42 5.736)"
+         fill="url(#linear-gradient-5)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40.77025223px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0b013a;fill-opacity:1;stroke:none;stroke-width:1.01925635"
+       x="1169.9612"
+       y="1281.4397"
+       id="text3797"
+       transform="scale(0.98110747,1.0192563)"><tspan
+         sodipodi:role="line"
+         id="tspan3795"
+         x="1169.9612"
+         y="1281.4397"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:33.9752121px;font-family:Gilroy;-inkscape-font-specification:'Gilroy Bold';opacity:0;fill:#0b013a;fill-opacity:1;stroke-width:1.01925635">SQY Labs.</tspan></text>
+  </g>
+</svg>
