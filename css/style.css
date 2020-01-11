@@ -423,6 +423,13 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
     padding: 0;
 }
 
+primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show > .btn-primary.dropdown-toggle {
+    color: 
+#fff;
+background-color:
+    black;
+    border-color: #005cbf;
+}
 
 /* MEDIA QUERIES */
 
@@ -436,7 +443,7 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
     }
 
     .nav-item {
-        padding: 1rem;
+        padding: 1rem!important;
     }
 
     .main1 .leaf {
@@ -593,14 +600,28 @@ background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, F
 .change{
     background-color: white;
     box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
-    min-width: 80vw;
+    min-width: 70vw;
     padding: 1.5rem!important;
     transition: 1s ease-in-out;
+    
+}
+
+.change1 {
+    border: none;
+    box-shadow: none;
+    transition: 1s ease;
+}
+
+.change2 {
+    border-bottom: 1px solid blue;
 }
 
 .navbar {
     position: sticky;
     top: 0;
     z-index: 1020;
+    border: none;
+    transition: 1s ease;
 }
+
 }

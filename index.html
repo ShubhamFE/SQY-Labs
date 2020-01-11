@@ -23,13 +23,13 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-light p-5 container">
       <a class="navbar-brand">
-             <img src="./images/logo2.png"  alt="brand">
+        <img src="./images/logo2.png"  alt="brand">
     </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <i class="fas fa-stream"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav change1 ml-auto">
             <li class="nav-item">
                 <a class="nav-link hvr-underline-from-center" href="#home">Home</a>
               </li>
@@ -212,7 +212,7 @@
       </section>
 
       <section class="main5">
-        <div class="main5-section text-center container animated zoomIn wow" data-wow-delay="0.4s">
+        <div class="main5-section text-center container animated zoomIn wow" data-wow-delay="0.5s">
           <div class="row">
             <div class="col-xl-12">
               <div class="main5-text">
@@ -238,7 +238,7 @@
       <section id="contact" class="main6 container-fluid">
         <div class="main6-section container">
           <div class="row">
-            <div class="col-xl-6 col-lg-6 col-md-6 animated fadeInLeft wow" data-wow-delay="0.3s">
+            <div class="col-xl-6 col-lg-6 col-md-6 animated fadeInLeft wow" data-wow-delay="0.5s">
               <form class="needs-validation form" novalidate>
                 <div class="form-row">
                   <div class="col-md-12 mb-3">
@@ -287,7 +287,7 @@
           <div class="row">
             <div class="col-xl-3 col-lg-3 col-md-3 offset-lg-1 offset-xl-2">
               <div class="logo">
-                <img src="./images/logo2.png"  alt="brand">
+                <img src="./images/logo2.png" alt="Logo">
               </div>
               <div class="main7-brand mt-4">
                 <p>info@sqytechnologies.com <br>
@@ -324,9 +324,9 @@
    
 
 
-      <section class="footer p-2 hvr-underline-reveal container-fluid bg-light animated fadeIn wow" data-wow-delay="0.3s">
+      <section class="footer p-2 hvr-underline-reveal container-fluid bg-light animated fadeIn wow" data-wow-delay="0.7s">
         <div class="footer-section text-center">
-          <a href="https://www.instagram.com/m.mintttttflavour/" role="button" class="btn btn-light tracking-in-expand mb-2 mt-xl-0 mt-lg-0 mt-md-0 mt-2 ml-xl-3">By @ShubhamFE</a>
+          <a href="https://www.shubhamcodes.com" role="button" class="btn btn-light tracking-in-expand mb-2 mt-xl-0 mt-lg-0 mt-md-0 mt-2 ml-xl-3">By @shubhamcodes</a>
         </div>
       </section>
 
@@ -365,17 +365,7 @@
     <script>
     new WOW().init();
     </script>
-   <script class="navigation-menu-open">
-      $(document).bind("contextmenu",function(e) {
-    e.preventDefault();
-    });
-
-    $(document).keydown(function(e){
-        if(e.which === 123){
-          return false;
-        }
-    });
-  </script> 
+ 
   <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
   <script>
   
@@ -802,9 +792,13 @@
         if (scroll >= 200) {
             //console.log('a');
             $(".navbar").addClass("change");
+            $(".navbar-nav").addClass("change1");
+            $(".nav-link").addClass("change2");
         } else {
             //console.log('a');
             $(".navbar").removeClass("change");
+            $(".navbar-nav").removeClass("change1");
+            $(".nav-link").removeClass("change2");
         }
     });
 </script>
